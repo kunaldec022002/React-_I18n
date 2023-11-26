@@ -2,7 +2,8 @@
     "en" : {
         "welcomeMessage": "Welcome !",
         "normalMessage" : "We hope you are enjoy learning react",
-        "greetingMessage": "Have a great day !"
+        "greetingMessage": "Have a great day !",
+        "endMessage" : ""
     },
     "mr" : {
         "welcomeMessage" : " स्वागत आहे ! ",
